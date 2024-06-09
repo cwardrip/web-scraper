@@ -24,7 +24,7 @@ const Home = async () => {
 
             <h1 className='head-text'>
               Unleash the Power of
-              <span className='text-primary'> PriceWise</span>
+              <span className='text-primary'> DealDive</span>
             </h1>
 
             <p className='mt-6'>
@@ -33,8 +33,8 @@ const Home = async () => {
 
             <Searchbar />
           </div>
-          <HeroCarousel />
 
+          <HeroCarousel />
         </div>
       </section>
 
